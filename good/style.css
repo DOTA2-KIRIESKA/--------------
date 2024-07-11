@@ -1,0 +1,31 @@
+.parent{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(82, 82, 187);
+}
+.N1{
+    position: absolute;
+    left: 400px;
+    top: 100px;
+}
+.p1{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.N2{
+    width: 800px;
+    margin-left: 400px;
+}
+.w4{
+    position: absolute;
+    left: 1100px;
+    background-color: orange;
+    color: white;
+    bottom: 443px;
+}
+button{
+    width: 200px;
+    height: 25px;
+    margin-left: 25px;
+    margin-top: 250px;
+}
